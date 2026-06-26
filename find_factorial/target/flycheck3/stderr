@@ -1,12 +1,1 @@
-    Blocking waiting for file lock on package cache
-    Blocking waiting for file lock on package cache
-   0.043696614s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for find_factorial v0.1.0 (/home/iabid/Desktop/piscine-rust/find_factorial)/Check { test: false }/TargetInner { ..: lib_target("find_factorial", ["lib"], "/home/iabid/Desktop/piscine-rust/find_factorial/src/lib.rs", Edition2021) }
-   0.043717960s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-   0.043807563s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for find_factorial v0.1.0 (/home/iabid/Desktop/piscine-rust/find_factorial)/Check { test: true }/TargetInner { ..: lib_target("find_factorial", ["lib"], "/home/iabid/Desktop/piscine-rust/find_factorial/src/lib.rs", Edition2021) }
-   0.043812929s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-   0.043877674s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for find_factorial v0.1.0 (/home/iabid/Desktop/piscine-rust/find_factorial)/Check { test: false }/TargetInner { name: "find_factorial", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/find_factorial/src/main.rs", Edition2021) }
-   0.043883884s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-   0.043946856s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for find_factorial v0.1.0 (/home/iabid/Desktop/piscine-rust/find_factorial)/Check { test: true }/TargetInner { name: "find_factorial", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/find_factorial/src/main.rs", Edition2021) }
-   0.043951087s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-    Checking find_factorial v0.1.0 (/home/iabid/Desktop/piscine-rust/find_factorial)
-    Finished dev [unoptimized + debuginfo] target(s) in 0.18s
+    Finished dev [unoptimized + debuginfo] target(s) in 0.04s

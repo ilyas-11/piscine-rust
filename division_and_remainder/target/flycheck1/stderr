@@ -1,7 +1,1 @@
-    Blocking waiting for file lock on package cache
-   0.047147451s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for division_and_remainder v0.1.0 (/home/iabid/Desktop/piscine-rust/division_and_remainder)/Check { test: false }/TargetInner { ..: lib_target("division_and_remainder", ["lib"], "/home/iabid/Desktop/piscine-rust/division_and_remainder/src/lib.rs", Edition2021) }
-   0.047183935s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-   0.047332165s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for division_and_remainder v0.1.0 (/home/iabid/Desktop/piscine-rust/division_and_remainder)/Check { test: true }/TargetInner { ..: lib_target("division_and_remainder", ["lib"], "/home/iabid/Desktop/piscine-rust/division_and_remainder/src/lib.rs", Edition2021) }
-   0.047339026s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-    Checking division_and_remainder v0.1.0 (/home/iabid/Desktop/piscine-rust/division_and_remainder)
-    Finished dev [unoptimized + debuginfo] target(s) in 0.15s
+    Finished dev [unoptimized + debuginfo] target(s) in 0.05s

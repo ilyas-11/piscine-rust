@@ -1,7 +1,1 @@
-    Blocking waiting for file lock on package cache
-   0.045530166s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for matrix_transposition v0.1.0 (/home/iabid/Desktop/piscine-rust/matrix_transposition)/Check { test: false }/TargetInner { ..: lib_target("matrix_transposition", ["lib"], "/home/iabid/Desktop/piscine-rust/matrix_transposition/src/lib.rs", Edition2021) }
-   0.045579734s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-   0.045741582s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for matrix_transposition v0.1.0 (/home/iabid/Desktop/piscine-rust/matrix_transposition)/Check { test: true }/TargetInner { ..: lib_target("matrix_transposition", ["lib"], "/home/iabid/Desktop/piscine-rust/matrix_transposition/src/lib.rs", Edition2021) }
-   0.045749585s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
-    Checking matrix_transposition v0.1.0 (/home/iabid/Desktop/piscine-rust/matrix_transposition)
-    Finished dev [unoptimized + debuginfo] target(s) in 0.13s
+    Finished dev [unoptimized + debuginfo] target(s) in 0.04s
