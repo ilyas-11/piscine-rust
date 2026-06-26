@@ -1,0 +1,10 @@
+   0.044773692s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for speed_transformation v0.1.0 (/home/iabid/Desktop/piscine-rust/speed_transformation)/Check { test: false }/TargetInner { ..: lib_target("speed_transformation", ["lib"], "/home/iabid/Desktop/piscine-rust/speed_transformation/src/lib.rs", Edition2021) }
+   0.044816383s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.044950315s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for speed_transformation v0.1.0 (/home/iabid/Desktop/piscine-rust/speed_transformation)/Check { test: true }/TargetInner { ..: lib_target("speed_transformation", ["lib"], "/home/iabid/Desktop/piscine-rust/speed_transformation/src/lib.rs", Edition2021) }
+   0.044957037s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.045040190s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for speed_transformation v0.1.0 (/home/iabid/Desktop/piscine-rust/speed_transformation)/Check { test: false }/TargetInner { name: "speed_transformation", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/speed_transformation/src/main.rs", Edition2021) }
+   0.045044378s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.045117324s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for speed_transformation v0.1.0 (/home/iabid/Desktop/piscine-rust/speed_transformation)/Check { test: true }/TargetInner { name: "speed_transformation", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/speed_transformation/src/main.rs", Edition2021) }
+   0.045121563s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking speed_transformation v0.1.0 (/home/iabid/Desktop/piscine-rust/speed_transformation)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.18s

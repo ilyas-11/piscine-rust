@@ -1,0 +1,6 @@
+   0.033750078s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for tuples_refs v0.1.0 (/home/iabid/Desktop/piscine-rust/tuples_refs)/Check { test: false }/TargetInner { ..: lib_target("tuples_refs", ["lib"], "/home/iabid/Desktop/piscine-rust/tuples_refs/src/lib.rs", Edition2021) }
+   0.033764893s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.033844542s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for tuples_refs v0.1.0 (/home/iabid/Desktop/piscine-rust/tuples_refs)/Check { test: true }/TargetInner { ..: lib_target("tuples_refs", ["lib"], "/home/iabid/Desktop/piscine-rust/tuples_refs/src/lib.rs", Edition2021) }
+   0.033848874s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking tuples_refs v0.1.0 (/home/iabid/Desktop/piscine-rust/tuples_refs)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.13s

@@ -1,0 +1,6 @@
+   0.042297239s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for looping v0.1.0 (/home/iabid/Desktop/piscine-rust/looping)/Check { test: false }/TargetInner { name: "looping", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/looping/src/main.rs", Edition2021) }
+   0.042359541s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.042456286s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for looping v0.1.0 (/home/iabid/Desktop/piscine-rust/looping)/Check { test: true }/TargetInner { name: "looping", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/looping/src/main.rs", Edition2021) }
+   0.042514156s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking looping v0.1.0 (/home/iabid/Desktop/piscine-rust/looping)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.16s

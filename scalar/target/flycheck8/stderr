@@ -1,0 +1,6 @@
+   0.056849025s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for scalar v0.1.0 (/home/iabid/Desktop/piscine-rust/scalar)/Check { test: false }/TargetInner { ..: lib_target("scalar", ["lib"], "/home/iabid/Desktop/piscine-rust/scalar/src/lib.rs", Edition2021) }
+   0.056899290s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.057052984s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for scalar v0.1.0 (/home/iabid/Desktop/piscine-rust/scalar)/Check { test: true }/TargetInner { ..: lib_target("scalar", ["lib"], "/home/iabid/Desktop/piscine-rust/scalar/src/lib.rs", Edition2021) }
+   0.057061819s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking scalar v0.1.0 (/home/iabid/Desktop/piscine-rust/scalar)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.13s

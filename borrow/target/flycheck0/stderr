@@ -1,0 +1,10 @@
+   0.032496868s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for borrow v0.1.0 (/home/iabid/Desktop/piscine-rust/borrow)/Check { test: false }/TargetInner { ..: lib_target("borrow", ["lib"], "/home/iabid/Desktop/piscine-rust/borrow/src/lib.rs", Edition2021) }
+   0.032511282s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.032594510s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for borrow v0.1.0 (/home/iabid/Desktop/piscine-rust/borrow)/Check { test: true }/TargetInner { ..: lib_target("borrow", ["lib"], "/home/iabid/Desktop/piscine-rust/borrow/src/lib.rs", Edition2021) }
+   0.032598452s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.032642428s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for borrow v0.1.0 (/home/iabid/Desktop/piscine-rust/borrow)/Check { test: false }/TargetInner { name: "borrow", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/borrow/src/main.rs", Edition2021) }
+   0.032645614s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.032679797s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for borrow v0.1.0 (/home/iabid/Desktop/piscine-rust/borrow)/Check { test: true }/TargetInner { name: "borrow", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/borrow/src/main.rs", Edition2021) }
+   0.032682267s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking borrow v0.1.0 (/home/iabid/Desktop/piscine-rust/borrow)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.08s

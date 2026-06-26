@@ -1,0 +1,12 @@
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+   0.043698168s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for temperature_conv v0.1.0 (/home/iabid/Desktop/piscine-rust/temperature_conv)/Check { test: false }/TargetInner { ..: lib_target("temperature_conv", ["lib"], "/home/iabid/Desktop/piscine-rust/temperature_conv/src/lib.rs", Edition2021) }
+   0.043717181s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043806755s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for temperature_conv v0.1.0 (/home/iabid/Desktop/piscine-rust/temperature_conv)/Check { test: true }/TargetInner { ..: lib_target("temperature_conv", ["lib"], "/home/iabid/Desktop/piscine-rust/temperature_conv/src/lib.rs", Edition2021) }
+   0.043812356s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043877827s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for temperature_conv v0.1.0 (/home/iabid/Desktop/piscine-rust/temperature_conv)/Check { test: false }/TargetInner { name: "temperature_conv", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/temperature_conv/src/main.rs", Edition2021) }
+   0.043882739s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043945967s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for temperature_conv v0.1.0 (/home/iabid/Desktop/piscine-rust/temperature_conv)/Check { test: true }/TargetInner { name: "temperature_conv", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/temperature_conv/src/main.rs", Edition2021) }
+   0.043950413s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking temperature_conv v0.1.0 (/home/iabid/Desktop/piscine-rust/temperature_conv)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.18s

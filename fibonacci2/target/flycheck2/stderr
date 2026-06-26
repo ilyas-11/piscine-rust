@@ -1,0 +1,11 @@
+    Blocking waiting for file lock on package cache
+   0.043018367s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for fibonacci2 v0.1.0 (/home/iabid/Desktop/piscine-rust/fibonacci2)/Check { test: false }/TargetInner { ..: lib_target("fibonacci2", ["lib"], "/home/iabid/Desktop/piscine-rust/fibonacci2/src/lib.rs", Edition2021) }
+   0.043050873s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043165626s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for fibonacci2 v0.1.0 (/home/iabid/Desktop/piscine-rust/fibonacci2)/Check { test: true }/TargetInner { ..: lib_target("fibonacci2", ["lib"], "/home/iabid/Desktop/piscine-rust/fibonacci2/src/lib.rs", Edition2021) }
+   0.043173290s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043249966s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for fibonacci2 v0.1.0 (/home/iabid/Desktop/piscine-rust/fibonacci2)/Check { test: false }/TargetInner { name: "fibonacci2", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/fibonacci2/src/main.rs", Edition2021) }
+   0.043254860s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043327214s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for fibonacci2 v0.1.0 (/home/iabid/Desktop/piscine-rust/fibonacci2)/Check { test: true }/TargetInner { name: "fibonacci2", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/fibonacci2/src/main.rs", Edition2021) }
+   0.043331215s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking fibonacci2 v0.1.0 (/home/iabid/Desktop/piscine-rust/fibonacci2)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.18s

@@ -1,0 +1,10 @@
+   0.043209756s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for groceries v0.1.0 (/home/iabid/Desktop/piscine-rust/groceries)/Check { test: false }/TargetInner { ..: lib_target("groceries", ["lib"], "/home/iabid/Desktop/piscine-rust/groceries/src/lib.rs", Edition2021) }
+   0.043336941s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043489126s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for groceries v0.1.0 (/home/iabid/Desktop/piscine-rust/groceries)/Check { test: true }/TargetInner { ..: lib_target("groceries", ["lib"], "/home/iabid/Desktop/piscine-rust/groceries/src/lib.rs", Edition2021) }
+   0.043512705s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043611527s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for groceries v0.1.0 (/home/iabid/Desktop/piscine-rust/groceries)/Check { test: false }/TargetInner { name: "groceries", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/groceries/src/main.rs", Edition2021) }
+   0.043628827s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.043721993s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for groceries v0.1.0 (/home/iabid/Desktop/piscine-rust/groceries)/Check { test: true }/TargetInner { name: "groceries", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/groceries/src/main.rs", Edition2021) }
+   0.043739222s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking groceries v0.1.0 (/home/iabid/Desktop/piscine-rust/groceries)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.18s

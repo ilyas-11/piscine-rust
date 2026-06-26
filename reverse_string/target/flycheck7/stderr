@@ -1,0 +1,10 @@
+   0.117162835s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for reverse_string v0.1.0 (/home/iabid/Desktop/piscine-rust/reverse_string)/Check { test: false }/TargetInner { ..: lib_target("reverse_string", ["lib"], "/home/iabid/Desktop/piscine-rust/reverse_string/src/lib.rs", Edition2021) }
+   0.117204571s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.117355205s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for reverse_string v0.1.0 (/home/iabid/Desktop/piscine-rust/reverse_string)/Check { test: true }/TargetInner { ..: lib_target("reverse_string", ["lib"], "/home/iabid/Desktop/piscine-rust/reverse_string/src/lib.rs", Edition2021) }
+   0.117361853s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.117437212s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for reverse_string v0.1.0 (/home/iabid/Desktop/piscine-rust/reverse_string)/Check { test: false }/TargetInner { name: "reverse_string", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/reverse_string/src/main.rs", Edition2021) }
+   0.117442134s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+   0.117512170s  INFO cargo::core::compiler::fingerprint: fingerprint dirty for reverse_string v0.1.0 (/home/iabid/Desktop/piscine-rust/reverse_string)/Check { test: true }/TargetInner { name: "reverse_string", doc: true, ..: with_path("/home/iabid/Desktop/piscine-rust/reverse_string/src/main.rs", Edition2021) }
+   0.117515708s  INFO cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(Stale)
+    Checking reverse_string v0.1.0 (/home/iabid/Desktop/piscine-rust/reverse_string)
+    Finished dev [unoptimized + debuginfo] target(s) in 0.20s
