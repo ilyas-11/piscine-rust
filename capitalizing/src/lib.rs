@@ -9,7 +9,7 @@ pub fn capitalize_first(input: &str) -> String {
 }
 
 pub fn title_case(input: &str) -> String {
-    input.split(' ').map(capitalize_first).collect::<Vec<String>>().join(" ")
+    input.split_whitespace().map(capitalize_first).collect::<Vec<String>>().join(" ")
 }
 
 pub fn change_case(input: &str) -> String {
