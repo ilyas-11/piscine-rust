@@ -9,7 +9,21 @@ pub fn capitalize_first(input: &str) -> String {
 }
 
 pub fn title_case(input: &str) -> String {
-    input.split_whitespace().map(capitalize_first).collect::<Vec<String>>().join(" ")
+    let mut res= String::new();
+    let mut upp= true;
+    for c in input.chars(){
+        if c.is_whitespace(){
+            res.push(c);
+            upp=true;
+
+        }else if upp{
+            res.push_str(&c.to_uppercase().to_string());
+            upp=false;
+        }else{
+            res.push(c);
+        }
+    }
+    res
 }
 
 pub fn change_case(input: &str) -> String {
