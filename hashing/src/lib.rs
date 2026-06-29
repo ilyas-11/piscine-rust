@@ -12,7 +12,7 @@ pub fn median(list: &[i32]) -> i32 {
     if list.len()%2==1{
         return arr[list.len()/2]
     }
-    (arr[list.len()/2]+arr[list.len()/2])/2
+    (arr[list.len()/2-1]+arr[list.len()/2])/2
 
 }
 
