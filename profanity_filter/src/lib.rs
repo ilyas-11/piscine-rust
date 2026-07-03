@@ -1,9 +1,6 @@
-
-
 pub fn check_ms(message: &str) -> Result<&str, &str> {
-
-  match message{
-    message.contains("stupid")=>Err("ERROR: illegal"),
-    _=>Ok("hello there"),
-  }
+    match message {
+        _ if message.contains("stupid")|| message.is_empty()=> Err("ERROR: illegal"),
+        _ => Ok("hello there"),
+    }
 }
