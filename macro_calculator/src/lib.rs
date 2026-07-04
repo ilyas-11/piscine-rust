@@ -24,9 +24,12 @@ pub fn calculate_macros(foods: &[Food]) -> json::JsonValue {
     // println!("Total proteins: {} g", proteins);
     // println!("Total fats: {} g", fats);
     json::object! {
-        "cals": cals,
-        "carbs": carbs,
-        "proteins": proteins,
-        "fats": fats
+        "cals": round(cals),
+        "carbs": round(carbs),
+        "proteins": round(proteins),
+        "fats": round(fats)
     }
+}
+fn round(n: f64) -> f64 {
+    (n * 100.0).round() / 100.0
 }
